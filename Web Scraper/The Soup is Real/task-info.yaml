@@ -1,0 +1,32 @@
+type: edu
+files:
+  - name: scraper.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    learner_created: false
+  - name: test/tests.py
+    learner_created: false
+  - name: tests.py
+    learner_created: false
+  - name: source.html
+    visible: true
+    learner_created: true
+  - name: Sapiens_A_Brief_History_of_Humankind.txt
+    visible: true
+    learner_created: true
+  - name: Scott_Pilgrims_Precious_Little_Life_Scott_Pilgrim_1.txt
+    visible: true
+    learner_created: true
+  - name: Rip_it_Up_and_Start_Again.txt
+    visible: true
+    learner_created: true
+  - name: Set_Me_Free.txt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/145/stages/784/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 20 Nov 2026 23:37:22 UTC"
+record: -1

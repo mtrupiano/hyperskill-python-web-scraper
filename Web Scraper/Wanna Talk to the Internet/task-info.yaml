@@ -1,0 +1,18 @@
+type: edu
+custom_name: Wanna Talk to the Internet?
+files:
+  - name: test/__init__.py
+    learner_created: false
+  - name: test/tests.py
+    learner_created: false
+  - name: scraper.py
+    visible: true
+    learner_created: false
+  - name: tests.py
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/145/stages/781/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 20 Nov 2026 17:17:24 UTC"
+record: -1
